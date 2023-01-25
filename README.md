@@ -1,6 +1,6 @@
 # simple_CRUD
 this is simple CRUD application using Mongodb
-# to get self assigned certificate
+# to get self signed certificate
 ```
 > openssl genrsa -out key.pem
 > openssl req -new -key key.pem -out csr.pem

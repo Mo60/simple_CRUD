@@ -1,5 +1,5 @@
 # simple_CRUD
-this is simple CRUD application using Mongodb
+this is simple CRUD API using Mongodb
 # to get self signed certificate
 ```
 > openssl genrsa -out key.pem
